@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Bem vindo ao perfil da Jataiza!
+📒Cursando Ciência da computação
 
-<!--
-**Jataiza/Jataiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✏️Estudando Java,Java Script,Python;
 
-Here are some ideas to get you started:
+😅Me aventurando em alguns projetos front-end e apaixonada por desenvolvimento de jogos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨Buscando melhorar cada dia :) 
+
+<div align="center">
+  <a href="https://github.com/Jataiza">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jataiza&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jataiza&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
