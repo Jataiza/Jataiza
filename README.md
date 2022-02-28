@@ -1,7 +1,7 @@
 ## Olá! Bem vindo ao perfil da Jataiza!
 📒Cursando Ciência da computação
 
-✏️Estudando Java,Java Script,Python;
+✏️Estudando Java,Python,Java Script;
 
 😅Me aventurando em alguns projetos front-end e apaixonada por desenvolvimento de jogos
 
